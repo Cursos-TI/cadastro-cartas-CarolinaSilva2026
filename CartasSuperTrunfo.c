@@ -57,6 +57,7 @@ int main() {
   // Área para exibição dos dados da cidade
   //CARTA 1
 
+    printf("\nResultado: \n");
     printf("\nCarta 1:\n");
     printf("Estado: %c\n", estado1);
     printf("Código da carta: %s\n", codigo1);
